@@ -32,7 +32,6 @@ A python script to dump all photos within a private/public instagram account tha
 <br>
 
 ## Notice
-- only support instagram public account
 - video and sidecar (except for the first one) will not be downloaded, will be supported in the future
 - remove the `urls.json` if you want to download the photos again
 <br>
